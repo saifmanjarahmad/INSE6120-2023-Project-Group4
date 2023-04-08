@@ -4,8 +4,8 @@ INSE 6120 Group Project Topic 4: Blockchain and Its Applications
 
 Group Members:
 
-Mirza Aliva Salvin	  40198142              
-Md. Aminul Islam	    40203451<br>
-Saif Manjar Ahmad	    40217056<br>
-Taufiq Al-Din	        40217260<br>	
-Kareem Shamayleh	    40222388<br>
+Mirza Aliva Salvin	  <b>40198142</b>              
+Md. Aminul Islam	    <b>40203451</b> <br>
+Saif Manjar Ahmad	    <b>40217056</b>  <br>
+Taufiq Al-Din	        <b>40217260</b>  <br>	
+Kareem Shamayleh	    <b>40222388</b>  <br>
